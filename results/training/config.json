@@ -1,0 +1,49 @@
+{
+  "model": "BAAI/bge-reranker-v2-m3",
+  "revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+  "seed": 42,
+  "train_questions": 1000,
+  "dev_questions": 100,
+  "test_questions": 200,
+  "groups_per_epoch": 2000,
+  "epochs": 2,
+  "max_length": 512,
+  "lr": 2e-05,
+  "precision": "BF16 base and autocast, FP32 trainable weights",
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "query",
+    "value"
+  ],
+  "modules_to_save": [
+    "classifier"
+  ],
+  "negative_mining": "BM25 top 4 excluding all gold",
+  "microbatch_groups": 1,
+  "accumulation": 4,
+  "weight_decay": 0.01,
+  "gradient_checkpointing": true,
+  "warmup_fraction": 0.05,
+  "lr_schedule": "linear warmup and decay",
+  "selection": "best TRAINED epoch by dev all_evidence@3, then nDCG@3; earlier epoch wins ties",
+  "test_policy": "official validation only used AFTER dev checkpoint selection; no test tuning",
+  "candidate_policy": "all 10 provided paragraphs; equivalent to C candidate set; no title in model input",
+  "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+  "data_sha256": "0a7357775069202dd57b057e8b0a0fd6cfb16db615ac80d40f6cca9e0590aa9c",
+  "packages": {
+    "torch": "2.5.1+cu124",
+    "transformers": "4.48.3",
+    "peft": "0.14.0"
+  },
+  "limitations": [
+    "English HotpotQA only",
+    "subset sampled from prefixes, not entire dataset",
+    "no LLM answer quality measured",
+    "timing reranker only, excludes BM25/dense",
+    "BF16 GPU baseline recomputed; do not compare to earlier CPU 20-question aggregate"
+  ],
+  "trainable_parameters": 1837057,
+  "total_parameters": 569592834
+}

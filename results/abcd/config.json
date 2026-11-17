@@ -1,0 +1,20 @@
+{
+  "source_run": "runs/lora_1000_compare_20261117_01",
+  "source_dataset_sha256": "0a7357775069202dd57b057e8b0a0fd6cfb16db615ac80d40f6cca9e0590aa9c",
+  "embed_model": "BAAI/bge-m3",
+  "embed_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "embedding_dtype": "torch.float32",
+  "device": "cuda",
+  "max_length": 512,
+  "rrf_k": 60,
+  "candidates": 10,
+  "seed": "frozen source test set",
+  "policy": "BM25 title+text; dense and reranker body only. C/D predictions reused on identical test data.",
+  "limitations": [
+    "candidate ranking, not full-corpus retrieval",
+    "C/D rerank all ten candidates; hybrid order is irrelevant except ties",
+    "no LLM answer evaluation",
+    "200-question exploratory subset already inspected",
+    "no latency comparison; dense FP32 and reranker BF16"
+  ]
+}

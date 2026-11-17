@@ -1,0 +1,9 @@
+{
+  "epoch": 2,
+  "dev_key": [
+    0.9,
+    0.9471553262637097
+  ],
+  "rule": "best TRAINED epoch by dev all_evidence@3, then nDCG@3; earlier epoch wins ties",
+  "test_not_yet_used": true
+}

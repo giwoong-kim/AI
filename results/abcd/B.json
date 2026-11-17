@@ -1,0 +1,7204 @@
+{
+  "rows": [
+    {
+      "id": "5ab84bf555429916710eb01f",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        8,
+        4,
+        0,
+        9,
+        6,
+        7,
+        2,
+        5,
+        1,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab28b12554299449642c8ee",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        0,
+        8,
+        3,
+        5,
+        6,
+        1,
+        7,
+        9,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a866c04554299211dda2b25",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        4,
+        9,
+        1,
+        8,
+        3,
+        5,
+        6,
+        0,
+        7,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a87e3d65542993e715abff8",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        2,
+        1,
+        5,
+        6,
+        9,
+        3,
+        4,
+        0,
+        8,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7a1cd85542990783324e65",
+      "gold": [
+        1,
+        4
+      ],
+      "ranking": [
+        1,
+        4,
+        2,
+        7,
+        6,
+        5,
+        0,
+        3,
+        9,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac537975542996feb3fea3c",
+      "gold": [
+        4,
+        5
+      ],
+      "ranking": [
+        4,
+        3,
+        8,
+        0,
+        9,
+        5,
+        1,
+        2,
+        7,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5adc094a55429947ff1738c0",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        1,
+        8,
+        4,
+        5,
+        0,
+        2,
+        6,
+        9,
+        3,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5a7571095542992d0ec05f97",
+      "gold": [
+        3,
+        7
+      ],
+      "ranking": [
+        8,
+        7,
+        3,
+        4,
+        1,
+        2,
+        5,
+        0,
+        9,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        }
+      }
+    },
+    {
+      "id": "5ab1d983554299340b52540a",
+      "gold": [
+        0,
+        1
+      ],
+      "ranking": [
+        0,
+        1,
+        2,
+        5,
+        4,
+        6,
+        9,
+        7,
+        3,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae80919554299540e5a56f6",
+      "gold": [
+        7,
+        8
+      ],
+      "ranking": [
+        7,
+        8,
+        3,
+        4,
+        5,
+        1,
+        0,
+        6,
+        9,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8c5569554299240d9c2126",
+      "gold": [
+        5,
+        9
+      ],
+      "ranking": [
+        9,
+        6,
+        8,
+        5,
+        4,
+        3,
+        7,
+        2,
+        0,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ab1eac95542993be8fa987f",
+      "gold": [
+        0,
+        3
+      ],
+      "ranking": [
+        3,
+        0,
+        4,
+        2,
+        8,
+        9,
+        6,
+        7,
+        1,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8b3fe85542995d1e6f1323",
+      "gold": [
+        2,
+        5
+      ],
+      "ranking": [
+        2,
+        4,
+        8,
+        9,
+        7,
+        5,
+        3,
+        6,
+        1,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ab8f3235542991b5579f084",
+      "gold": [
+        2,
+        7
+      ],
+      "ranking": [
+        7,
+        1,
+        8,
+        2,
+        3,
+        9,
+        4,
+        0,
+        5,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ae327e05542992f92d82220",
+      "gold": [
+        2,
+        5
+      ],
+      "ranking": [
+        2,
+        0,
+        6,
+        3,
+        5,
+        8,
+        9,
+        4,
+        1,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a722b8655429971e9dc9329",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        7,
+        6,
+        8,
+        3,
+        0,
+        5,
+        2,
+        4,
+        1,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ac1a04e5542991316484b63",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        6,
+        5,
+        8,
+        0,
+        4,
+        2,
+        1,
+        9,
+        3,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a71166d5542994082a3e576",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        6,
+        8,
+        3,
+        0,
+        2,
+        5,
+        1,
+        4,
+        7,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab5ec0a5542997d4ad1f250",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        9,
+        7,
+        3,
+        4,
+        2,
+        1,
+        6,
+        0,
+        5,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a874ce15542996432c57256",
+      "gold": [
+        1,
+        8
+      ],
+      "ranking": [
+        1,
+        5,
+        4,
+        7,
+        0,
+        6,
+        8,
+        3,
+        2,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5a8fa4d95542995b4424207b",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        8,
+        5,
+        0,
+        7,
+        6,
+        4,
+        2,
+        3,
+        1,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a77ddb855429967ab1052d8",
+      "gold": [
+        0,
+        4
+      ],
+      "ranking": [
+        0,
+        4,
+        7,
+        6,
+        8,
+        2,
+        9,
+        3,
+        1,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a734bb65542994cef4bc50f",
+      "gold": [
+        2,
+        6
+      ],
+      "ranking": [
+        2,
+        6,
+        8,
+        4,
+        5,
+        9,
+        3,
+        7,
+        1,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab8634e5542990e739ec8de",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        8,
+        7,
+        5,
+        1,
+        0,
+        3,
+        6,
+        9,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5a872e8e5542991e7718170c",
+      "gold": [
+        0,
+        9
+      ],
+      "ranking": [
+        9,
+        0,
+        8,
+        4,
+        2,
+        5,
+        1,
+        7,
+        6,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7757215542993569682d58",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        6,
+        7,
+        1,
+        2,
+        8,
+        0,
+        9,
+        5,
+        4,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a729e7b5542992359bc313d",
+      "gold": [
+        3,
+        5
+      ],
+      "ranking": [
+        5,
+        3,
+        4,
+        2,
+        8,
+        7,
+        9,
+        6,
+        0,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae0aaf455429945ae959401",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        4,
+        2,
+        1,
+        7,
+        6,
+        8,
+        9,
+        3,
+        5,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5a77cb335542997042120b3a",
+      "gold": [
+        2,
+        9
+      ],
+      "ranking": [
+        9,
+        2,
+        0,
+        6,
+        4,
+        3,
+        1,
+        7,
+        8,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a876b265542993e715abf33",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        0,
+        2,
+        7,
+        8,
+        9,
+        3,
+        4,
+        5,
+        6,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a8574945542997b5ce3fffb",
+      "gold": [
+        5,
+        7
+      ],
+      "ranking": [
+        7,
+        5,
+        0,
+        1,
+        9,
+        2,
+        6,
+        8,
+        3,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7c290c5542990527d55468",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        3,
+        9,
+        4,
+        7,
+        1,
+        2,
+        6,
+        8,
+        5,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab5ed505542997d4ad1f255",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        8,
+        6,
+        1,
+        0,
+        9,
+        5,
+        2,
+        7,
+        3,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ab531cc5542990594ba9d23",
+      "gold": [
+        5,
+        8
+      ],
+      "ranking": [
+        8,
+        2,
+        3,
+        5,
+        1,
+        9,
+        4,
+        6,
+        0,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a74c85055429916b0164218",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        8,
+        1,
+        3,
+        6,
+        5,
+        2,
+        0,
+        9,
+        7,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5ae383e15542992f92d822fb",
+      "gold": [
+        5,
+        6
+      ],
+      "ranking": [
+        6,
+        5,
+        9,
+        1,
+        2,
+        7,
+        0,
+        8,
+        4,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8ee6915542990e94052bad",
+      "gold": [
+        6,
+        7
+      ],
+      "ranking": [
+        6,
+        2,
+        7,
+        5,
+        1,
+        9,
+        0,
+        8,
+        3,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a85a3005542991dd0999e72",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        9,
+        7,
+        3,
+        5,
+        4,
+        8,
+        0,
+        2,
+        1,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a77121a5542994aec3b71db",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        3,
+        9,
+        7,
+        6,
+        5,
+        2,
+        8,
+        1,
+        4,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab811e95542995dae37ea22",
+      "gold": [
+        3,
+        4
+      ],
+      "ranking": [
+        3,
+        2,
+        4,
+        1,
+        0,
+        7,
+        5,
+        6,
+        9,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a7a8a9c554299042af8f666",
+      "gold": [
+        0,
+        7
+      ],
+      "ranking": [
+        7,
+        0,
+        9,
+        8,
+        3,
+        4,
+        1,
+        6,
+        5,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a83041355429966c78a6ae8",
+      "gold": [
+        8,
+        9
+      ],
+      "ranking": [
+        7,
+        4,
+        9,
+        8,
+        5,
+        0,
+        3,
+        2,
+        6,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.5706417189553201
+        }
+      }
+    },
+    {
+      "id": "5ab6f0c25542995eadef00ea",
+      "gold": [
+        1,
+        8
+      ],
+      "ranking": [
+        1,
+        8,
+        9,
+        0,
+        5,
+        7,
+        6,
+        3,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a78d01d55429974737f78b3",
+      "gold": [
+        0,
+        3
+      ],
+      "ranking": [
+        3,
+        0,
+        8,
+        6,
+        1,
+        5,
+        9,
+        7,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a88a19a5542997e5c09a64b",
+      "gold": [
+        3,
+        8
+      ],
+      "ranking": [
+        3,
+        5,
+        8,
+        7,
+        9,
+        1,
+        0,
+        6,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5adfa3da554299025d62a317",
+      "gold": [
+        2,
+        4
+      ],
+      "ranking": [
+        8,
+        3,
+        2,
+        0,
+        6,
+        7,
+        4,
+        5,
+        9,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        }
+      }
+    },
+    {
+      "id": "5a84e61b5542997b5ce3ff86",
+      "gold": [
+        1,
+        7
+      ],
+      "ranking": [
+        7,
+        1,
+        4,
+        2,
+        0,
+        3,
+        5,
+        8,
+        9,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7a276d5542996c55b2dd27",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        2,
+        4,
+        1,
+        8,
+        5,
+        7,
+        0,
+        6,
+        9,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a90605d5542995651fb514d",
+      "gold": [
+        0,
+        4
+      ],
+      "ranking": [
+        0,
+        6,
+        3,
+        4,
+        8,
+        1,
+        9,
+        7,
+        2,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5aba5d2e55429901930fa799",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        4,
+        2,
+        3,
+        9,
+        8,
+        0,
+        1,
+        7,
+        6,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a77152355429966f1a36c2e",
+      "gold": [
+        8,
+        9
+      ],
+      "ranking": [
+        9,
+        8,
+        2,
+        1,
+        5,
+        3,
+        7,
+        6,
+        0,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab467975542991751b4d75f",
+      "gold": [
+        3,
+        7
+      ],
+      "ranking": [
+        3,
+        6,
+        5,
+        7,
+        4,
+        8,
+        1,
+        9,
+        2,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ae2dd2055429928c423950d",
+      "gold": [
+        2,
+        7
+      ],
+      "ranking": [
+        7,
+        9,
+        2,
+        6,
+        5,
+        4,
+        1,
+        3,
+        0,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a834ed95542990548d0b1ca",
+      "gold": [
+        4,
+        7
+      ],
+      "ranking": [
+        7,
+        8,
+        4,
+        2,
+        0,
+        3,
+        5,
+        1,
+        6,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5abaeda95542992ccd8e7e5d",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        6,
+        0,
+        1,
+        3,
+        8,
+        7,
+        4,
+        5,
+        2,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8cca64554299653c1aa125",
+      "gold": [
+        4,
+        6
+      ],
+      "ranking": [
+        4,
+        6,
+        1,
+        3,
+        0,
+        7,
+        9,
+        2,
+        5,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5add673e5542992ae4cec54d",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        6,
+        1,
+        8,
+        4,
+        0,
+        3,
+        9,
+        5,
+        2,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a83aaeb5542996488c2e483",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        5,
+        3,
+        7,
+        2,
+        1,
+        0,
+        8,
+        9,
+        4,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5abffc41554299012d1db551",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        8,
+        3,
+        2,
+        7,
+        1,
+        0,
+        9,
+        6,
+        5,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a84c4135542994c784dda31",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        1,
+        8,
+        6,
+        3,
+        4,
+        0,
+        5,
+        9,
+        2,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5abc039a5542993f40c73c49",
+      "gold": [
+        4,
+        6
+      ],
+      "ranking": [
+        4,
+        6,
+        3,
+        7,
+        1,
+        5,
+        9,
+        2,
+        0,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7ce50f55429909bec76869",
+      "gold": [
+        1,
+        7
+      ],
+      "ranking": [
+        1,
+        7,
+        2,
+        5,
+        3,
+        9,
+        0,
+        4,
+        8,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab69c25554299110f219a39",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        8,
+        6,
+        9,
+        0,
+        7,
+        2,
+        3,
+        1,
+        5,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a875154554299211dda2be7",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        6,
+        4,
+        3,
+        2,
+        0,
+        8,
+        1,
+        5,
+        9,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5ae686535542996d980e7bdc",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        8,
+        4,
+        7,
+        0,
+        9,
+        3,
+        6,
+        2,
+        5,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac2616b5542996366519997",
+      "gold": [
+        5,
+        8
+      ],
+      "ranking": [
+        5,
+        6,
+        0,
+        8,
+        1,
+        9,
+        3,
+        7,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a711cb45542994082a3e59f",
+      "gold": [
+        0,
+        1
+      ],
+      "ranking": [
+        0,
+        1,
+        7,
+        2,
+        8,
+        6,
+        5,
+        3,
+        9,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5abd552555429933744ab776",
+      "gold": [
+        5,
+        9
+      ],
+      "ranking": [
+        9,
+        2,
+        4,
+        8,
+        1,
+        3,
+        6,
+        7,
+        0,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ab639e65542995eadeeff7f",
+      "gold": [
+        1,
+        4
+      ],
+      "ranking": [
+        1,
+        4,
+        2,
+        3,
+        5,
+        7,
+        6,
+        9,
+        0,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7521c55542993748c897c6",
+      "gold": [
+        1,
+        6
+      ],
+      "ranking": [
+        1,
+        6,
+        0,
+        5,
+        8,
+        9,
+        4,
+        3,
+        7,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a879adb5542996e4f30887f",
+      "gold": [
+        3,
+        7
+      ],
+      "ranking": [
+        2,
+        3,
+        5,
+        8,
+        0,
+        1,
+        9,
+        4,
+        6,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5a8f812755429918e830d245",
+      "gold": [
+        2,
+        5
+      ],
+      "ranking": [
+        2,
+        5,
+        4,
+        6,
+        3,
+        0,
+        8,
+        1,
+        7,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab3eeb5554299233954fff4",
+      "gold": [
+        6,
+        7
+      ],
+      "ranking": [
+        6,
+        8,
+        7,
+        9,
+        0,
+        5,
+        4,
+        2,
+        1,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ade908b55429975fa854f13",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        9,
+        7,
+        2,
+        8,
+        0,
+        1,
+        5,
+        6,
+        4,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7a1b845542990783324e5f",
+      "gold": [
+        1,
+        6
+      ],
+      "ranking": [
+        1,
+        2,
+        4,
+        6,
+        0,
+        9,
+        5,
+        8,
+        7,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a7c9d2e55429935c91b5261",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        3,
+        9,
+        0,
+        6,
+        2,
+        8,
+        1,
+        4,
+        5,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7b1023554299042af8f6c2",
+      "gold": [
+        5,
+        8
+      ],
+      "ranking": [
+        8,
+        5,
+        0,
+        9,
+        3,
+        6,
+        7,
+        1,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab67772554299110f219a12",
+      "gold": [
+        2,
+        7
+      ],
+      "ranking": [
+        7,
+        9,
+        2,
+        5,
+        8,
+        1,
+        3,
+        0,
+        4,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ac02edb554299294b218f41",
+      "gold": [
+        2,
+        7
+      ],
+      "ranking": [
+        2,
+        7,
+        6,
+        3,
+        8,
+        1,
+        0,
+        5,
+        4,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae0345855429924de1b705f",
+      "gold": [
+        1,
+        3
+      ],
+      "ranking": [
+        3,
+        1,
+        0,
+        6,
+        7,
+        8,
+        5,
+        9,
+        2,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7f81425542992097ad2f8e",
+      "gold": [
+        0,
+        2
+      ],
+      "ranking": [
+        2,
+        3,
+        1,
+        0,
+        4,
+        5,
+        7,
+        9,
+        6,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ab9547755429970cfb8ea6c",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        1,
+        2,
+        7,
+        0,
+        9,
+        3,
+        6,
+        5,
+        8,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5adda7585542997dc790700c",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        6,
+        8,
+        0,
+        5,
+        2,
+        1,
+        9,
+        4,
+        3,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ae819ac55429952e35eaa16",
+      "gold": [
+        2,
+        9
+      ],
+      "ranking": [
+        9,
+        2,
+        8,
+        0,
+        1,
+        3,
+        5,
+        7,
+        6,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a88d745554299206df2b378",
+      "gold": [
+        4,
+        7
+      ],
+      "ranking": [
+        4,
+        7,
+        0,
+        5,
+        2,
+        3,
+        6,
+        8,
+        1,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac26eed55429951e9e685bf",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        3,
+        6,
+        1,
+        4,
+        5,
+        8,
+        7,
+        0,
+        9,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "5": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        }
+      }
+    },
+    {
+      "id": "5ac32b565542995ef918c154",
+      "gold": [
+        7,
+        8
+      ],
+      "ranking": [
+        7,
+        8,
+        4,
+        3,
+        1,
+        0,
+        6,
+        5,
+        2,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a86399e5542994775f60733",
+      "gold": [
+        3,
+        6
+      ],
+      "ranking": [
+        6,
+        3,
+        7,
+        5,
+        2,
+        8,
+        4,
+        1,
+        0,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a78b209554299148911f93e",
+      "gold": [
+        0,
+        4
+      ],
+      "ranking": [
+        0,
+        7,
+        8,
+        4,
+        9,
+        1,
+        3,
+        5,
+        6,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a8f4c8d554299458435d5a3",
+      "gold": [
+        2,
+        3
+      ],
+      "ranking": [
+        2,
+        5,
+        3,
+        0,
+        1,
+        6,
+        4,
+        9,
+        8,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ae1465855429920d5234373",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        6,
+        9,
+        2,
+        4,
+        0,
+        5,
+        3,
+        8,
+        1,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5a8cb288554299585d9e3726",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        4,
+        8,
+        3,
+        0,
+        1,
+        9,
+        7,
+        2,
+        6,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5a8d02cc554299441c6b9fb6",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        4,
+        6,
+        3,
+        1,
+        9,
+        0,
+        7,
+        2,
+        5,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a77b0395542997042120ae1",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        8,
+        3,
+        0,
+        5,
+        1,
+        2,
+        9,
+        7,
+        4,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ab7e4dc5542995dae37e9df",
+      "gold": [
+        2,
+        3
+      ],
+      "ranking": [
+        2,
+        4,
+        7,
+        9,
+        3,
+        1,
+        5,
+        0,
+        6,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5adcfbf45542990d50227d86",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        9,
+        0,
+        6,
+        2,
+        3,
+        5,
+        4,
+        8,
+        7,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a72f74a55429901807daf59",
+      "gold": [
+        0,
+        2
+      ],
+      "ranking": [
+        0,
+        2,
+        1,
+        8,
+        9,
+        6,
+        5,
+        4,
+        7,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae53b545542990ba0bbb23c",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        2,
+        1,
+        8,
+        7,
+        9,
+        0,
+        3,
+        6,
+        5,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae4a2b25542995ad6573de0",
+      "gold": [
+        8,
+        9
+      ],
+      "ranking": [
+        8,
+        3,
+        7,
+        4,
+        2,
+        5,
+        9,
+        0,
+        6,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5add10ca5542994ed6169c59",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        8,
+        3,
+        2,
+        9,
+        7,
+        0,
+        4,
+        1,
+        6,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a7d61775542991319bc93b9",
+      "gold": [
+        5,
+        7
+      ],
+      "ranking": [
+        5,
+        8,
+        9,
+        2,
+        7,
+        6,
+        3,
+        4,
+        1,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5ac4392e5542997ea680ca32",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        3,
+        9,
+        2,
+        6,
+        1,
+        4,
+        5,
+        8,
+        7,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac3b5d3554299741d48a2f3",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        4,
+        8,
+        5,
+        1,
+        9,
+        2,
+        0,
+        7,
+        3,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7633ff5542994ccc918712",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        9,
+        4,
+        0,
+        8,
+        5,
+        1,
+        3,
+        2,
+        7,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a79c8fa5542994bb94570a1",
+      "gold": [
+        3,
+        7
+      ],
+      "ranking": [
+        7,
+        3,
+        2,
+        8,
+        9,
+        1,
+        6,
+        5,
+        4,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8488f45542992a431d1a47",
+      "gold": [
+        4,
+        7
+      ],
+      "ranking": [
+        6,
+        7,
+        1,
+        9,
+        5,
+        4,
+        0,
+        2,
+        3,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5a877dd65542993e715abf79",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        6,
+        9,
+        0,
+        2,
+        7,
+        4,
+        8,
+        1,
+        5,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a804510554299485f5985af",
+      "gold": [
+        2,
+        3
+      ],
+      "ranking": [
+        3,
+        2,
+        5,
+        0,
+        9,
+        8,
+        1,
+        6,
+        7,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab96ab755429970cfb8eacd",
+      "gold": [
+        3,
+        7
+      ],
+      "ranking": [
+        0,
+        7,
+        9,
+        3,
+        5,
+        4,
+        8,
+        2,
+        6,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6509209298071326
+        }
+      }
+    },
+    {
+      "id": "5ae1fa2b5542997f29b3c1df",
+      "gold": [
+        4,
+        5
+      ],
+      "ranking": [
+        4,
+        5,
+        3,
+        1,
+        0,
+        6,
+        9,
+        7,
+        8,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5abcc96c5542996583600492",
+      "gold": [
+        2,
+        6
+      ],
+      "ranking": [
+        2,
+        1,
+        9,
+        8,
+        7,
+        0,
+        3,
+        4,
+        5,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5abc0bea554299658360040d",
+      "gold": [
+        0,
+        3
+      ],
+      "ranking": [
+        0,
+        5,
+        4,
+        8,
+        3,
+        1,
+        6,
+        9,
+        2,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a8cee9b554299441c6b9f87",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        9,
+        7,
+        6,
+        4,
+        0,
+        8,
+        5,
+        2,
+        1,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab659e355429954757d324e",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        3,
+        1,
+        8,
+        5,
+        6,
+        2,
+        7,
+        9,
+        0,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ab5057b5542991779162d56",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        3,
+        8,
+        0,
+        2,
+        6,
+        7,
+        4,
+        1,
+        5,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        }
+      }
+    },
+    {
+      "id": "5ae748d1554299572ea547b0",
+      "gold": [
+        3,
+        8
+      ],
+      "ranking": [
+        3,
+        8,
+        4,
+        0,
+        1,
+        5,
+        2,
+        6,
+        7,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac2efd65542990b17b154c7",
+      "gold": [
+        8,
+        9
+      ],
+      "ranking": [
+        8,
+        5,
+        3,
+        2,
+        6,
+        7,
+        0,
+        1,
+        9,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5a8c4c625542995e66a475a1",
+      "gold": [
+        4,
+        5
+      ],
+      "ranking": [
+        4,
+        8,
+        9,
+        5,
+        0,
+        1,
+        2,
+        7,
+        3,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ae4585c5542996836b02c89",
+      "gold": [
+        2,
+        7
+      ],
+      "ranking": [
+        7,
+        2,
+        3,
+        9,
+        1,
+        5,
+        4,
+        8,
+        6,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7cdcbf55429907fabef04f",
+      "gold": [
+        1,
+        5
+      ],
+      "ranking": [
+        1,
+        4,
+        8,
+        3,
+        5,
+        7,
+        6,
+        0,
+        2,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5ae1389655429901ffe4ae05",
+      "gold": [
+        5,
+        6
+      ],
+      "ranking": [
+        6,
+        5,
+        4,
+        9,
+        0,
+        7,
+        1,
+        2,
+        3,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae6795855429908198fa5e4",
+      "gold": [
+        1,
+        4
+      ],
+      "ranking": [
+        4,
+        3,
+        0,
+        1,
+        8,
+        9,
+        7,
+        5,
+        6,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5abd516a5542992ac4f3825c",
+      "gold": [
+        1,
+        8
+      ],
+      "ranking": [
+        4,
+        8,
+        3,
+        0,
+        2,
+        9,
+        1,
+        5,
+        6,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5ae25ed15542992decbdccd2",
+      "gold": [
+        2,
+        5
+      ],
+      "ranking": [
+        2,
+        5,
+        9,
+        3,
+        8,
+        1,
+        7,
+        0,
+        4,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a80071f5542992bc0c4a684",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        9,
+        4,
+        1,
+        8,
+        0,
+        2,
+        6,
+        3,
+        7,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ac3ad7f5542995ef918c1de",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        9,
+        3,
+        1,
+        2,
+        8,
+        7,
+        0,
+        5,
+        4,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5abcf2b4554299700f9d7937",
+      "gold": [
+        4,
+        5
+      ],
+      "ranking": [
+        5,
+        6,
+        4,
+        9,
+        7,
+        3,
+        0,
+        1,
+        2,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a7dc2495542997cc2c4749a",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        9,
+        0,
+        7,
+        8,
+        3,
+        4,
+        1,
+        5,
+        6,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a73977d554299623ed4ac08",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        8,
+        0,
+        5,
+        7,
+        9,
+        1,
+        2,
+        4,
+        3,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac52f455542996feb3fea12",
+      "gold": [
+        0,
+        9
+      ],
+      "ranking": [
+        9,
+        0,
+        2,
+        1,
+        8,
+        5,
+        3,
+        6,
+        7,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8e1027554299653c1aa15f",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        7,
+        6,
+        2,
+        4,
+        9,
+        8,
+        1,
+        0,
+        5,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        }
+      }
+    },
+    {
+      "id": "5a8739a05542994775f607ab",
+      "gold": [
+        0,
+        3
+      ],
+      "ranking": [
+        3,
+        1,
+        0,
+        4,
+        8,
+        7,
+        5,
+        2,
+        6,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a85ea095542994775f606a8",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        8,
+        4,
+        2,
+        9,
+        6,
+        1,
+        5,
+        7,
+        3,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ae305df5542992decbdcdc3",
+      "gold": [
+        6,
+        7
+      ],
+      "ranking": [
+        6,
+        7,
+        0,
+        4,
+        8,
+        2,
+        5,
+        1,
+        3,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8d50fb55429941ae14dfa2",
+      "gold": [
+        2,
+        4
+      ],
+      "ranking": [
+        4,
+        2,
+        3,
+        9,
+        8,
+        7,
+        6,
+        5,
+        0,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7a68d25542996c55b2dd98",
+      "gold": [
+        8,
+        9
+      ],
+      "ranking": [
+        8,
+        5,
+        0,
+        6,
+        4,
+        3,
+        9,
+        1,
+        7,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5adc9b7a5542994d58a2f679",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        3,
+        1,
+        7,
+        9,
+        5,
+        8,
+        6,
+        2,
+        0,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ab42b8955429942dd415ea6",
+      "gold": [
+        0,
+        2
+      ],
+      "ranking": [
+        0,
+        9,
+        2,
+        8,
+        1,
+        3,
+        4,
+        7,
+        5,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ae2070a5542994d89d5b313",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        0,
+        7,
+        2,
+        1,
+        9,
+        6,
+        8,
+        3,
+        5,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ab7fa7b5542992aa3b8c897",
+      "gold": [
+        4,
+        7
+      ],
+      "ranking": [
+        5,
+        7,
+        3,
+        4,
+        2,
+        6,
+        0,
+        1,
+        8,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6509209298071326
+        }
+      }
+    },
+    {
+      "id": "5ac26b7f55429951e9e685ae",
+      "gold": [
+        5,
+        8
+      ],
+      "ranking": [
+        5,
+        2,
+        9,
+        6,
+        1,
+        0,
+        4,
+        3,
+        8,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ac3d9c9554299204fd21ea3",
+      "gold": [
+        5,
+        8
+      ],
+      "ranking": [
+        8,
+        0,
+        5,
+        7,
+        6,
+        4,
+        9,
+        1,
+        3,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ab4e3065542990594ba9cb4",
+      "gold": [
+        0,
+        4
+      ],
+      "ranking": [
+        0,
+        3,
+        7,
+        4,
+        9,
+        5,
+        8,
+        1,
+        6,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5a8e2ba05542995085b373b8",
+      "gold": [
+        3,
+        6
+      ],
+      "ranking": [
+        3,
+        2,
+        6,
+        8,
+        5,
+        7,
+        0,
+        1,
+        4,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5add63845542992ae4cec541",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        2,
+        0,
+        1,
+        8,
+        4,
+        3,
+        5,
+        6,
+        9,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a8af94455429971feec45b6",
+      "gold": [
+        5,
+        7
+      ],
+      "ranking": [
+        7,
+        5,
+        8,
+        4,
+        0,
+        6,
+        3,
+        2,
+        9,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7555215542996c70cfaee1",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        1,
+        2,
+        4,
+        7,
+        0,
+        8,
+        5,
+        3,
+        9,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae0a6ea5542993d6555ebe9",
+      "gold": [
+        2,
+        7
+      ],
+      "ranking": [
+        2,
+        7,
+        3,
+        0,
+        1,
+        9,
+        4,
+        6,
+        5,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae17daa55429901ffe4aea9",
+      "gold": [
+        6,
+        7
+      ],
+      "ranking": [
+        1,
+        7,
+        6,
+        5,
+        0,
+        8,
+        9,
+        2,
+        4,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        }
+      }
+    },
+    {
+      "id": "5ae1f5a15542997f29b3c1b5",
+      "gold": [
+        4,
+        5
+      ],
+      "ranking": [
+        4,
+        5,
+        6,
+        3,
+        9,
+        7,
+        2,
+        1,
+        8,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a85dfcc5542994775f60673",
+      "gold": [
+        6,
+        9
+      ],
+      "ranking": [
+        6,
+        8,
+        9,
+        7,
+        1,
+        4,
+        2,
+        5,
+        0,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a8b452655429971feec468e",
+      "gold": [
+        1,
+        8
+      ],
+      "ranking": [
+        1,
+        5,
+        8,
+        6,
+        4,
+        3,
+        7,
+        2,
+        9,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a818387554299260e20a291",
+      "gold": [
+        1,
+        2
+      ],
+      "ranking": [
+        2,
+        1,
+        0,
+        6,
+        7,
+        5,
+        9,
+        8,
+        4,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a7fc70155429969796c1b59",
+      "gold": [
+        6,
+        7
+      ],
+      "ranking": [
+        6,
+        7,
+        1,
+        2,
+        5,
+        3,
+        9,
+        4,
+        8,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab859a955429934fafe6d7b",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        2,
+        8,
+        6,
+        4,
+        0,
+        1,
+        5,
+        9,
+        3,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a83880e554299123d8c214e",
+      "gold": [
+        8,
+        9
+      ],
+      "ranking": [
+        9,
+        8,
+        4,
+        6,
+        0,
+        3,
+        1,
+        7,
+        2,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a79332555429907847277e7",
+      "gold": [
+        0,
+        6
+      ],
+      "ranking": [
+        1,
+        2,
+        0,
+        6,
+        4,
+        3,
+        8,
+        9,
+        7,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.5706417189553201
+        }
+      }
+    },
+    {
+      "id": "5ab9b29c554299743d22ebae",
+      "gold": [
+        2,
+        6
+      ],
+      "ranking": [
+        6,
+        2,
+        0,
+        4,
+        9,
+        7,
+        3,
+        8,
+        5,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5adcc3ed5542994d58a2f6c4",
+      "gold": [
+        1,
+        9
+      ],
+      "ranking": [
+        3,
+        1,
+        0,
+        2,
+        8,
+        5,
+        4,
+        7,
+        6,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        }
+      }
+    },
+    {
+      "id": "5aba9e2455429939ce03dd3a",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        8,
+        3,
+        4,
+        7,
+        5,
+        1,
+        0,
+        2,
+        6,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5abaf3195542996cc5e49f2c",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        6,
+        8,
+        1,
+        9,
+        3,
+        4,
+        0,
+        2,
+        7,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.2640681225725909
+        }
+      }
+    },
+    {
+      "id": "5ae0c7e755429945ae95944c",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        8,
+        5,
+        4,
+        3,
+        1,
+        0,
+        6,
+        7,
+        2,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ab266b5554299340b5254b4",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        9,
+        5,
+        6,
+        4,
+        2,
+        7,
+        0,
+        3,
+        1,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ac056385542997d64295a08",
+      "gold": [
+        6,
+        9
+      ],
+      "ranking": [
+        9,
+        6,
+        8,
+        2,
+        1,
+        7,
+        0,
+        4,
+        5,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a90580655429933b8a204ef",
+      "gold": [
+        2,
+        6
+      ],
+      "ranking": [
+        2,
+        8,
+        6,
+        0,
+        1,
+        9,
+        7,
+        5,
+        4,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5ae7eb3c5542994a481bbe20",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        8,
+        5,
+        0,
+        3,
+        2,
+        1,
+        9,
+        7,
+        6,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a8b4ec155429949d91db53f",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        9,
+        4,
+        7,
+        2,
+        3,
+        5,
+        0,
+        1,
+        6,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5add405f5542992c1e3a2581",
+      "gold": [
+        6,
+        8
+      ],
+      "ranking": [
+        8,
+        6,
+        9,
+        2,
+        3,
+        4,
+        0,
+        1,
+        7,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac497025542997ea680ca8d",
+      "gold": [
+        5,
+        9
+      ],
+      "ranking": [
+        0,
+        9,
+        5,
+        2,
+        3,
+        1,
+        6,
+        7,
+        4,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.38685280723454163
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.6934264036172708
+        }
+      }
+    },
+    {
+      "id": "5ab25004554299722f9b4cd7",
+      "gold": [
+        4,
+        6
+      ],
+      "ranking": [
+        6,
+        4,
+        1,
+        0,
+        7,
+        5,
+        8,
+        3,
+        2,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a764c0b55429976ec32bd89",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        8,
+        4,
+        0,
+        6,
+        5,
+        3,
+        9,
+        2,
+        1,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae7ba7a5542993210983f12",
+      "gold": [
+        4,
+        8
+      ],
+      "ranking": [
+        2,
+        9,
+        8,
+        1,
+        4,
+        3,
+        0,
+        5,
+        6,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.0,
+          "all_evidence": 0.0,
+          "ndcg": 0.0
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.3065735963827292
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.5437713091520254
+        }
+      }
+    },
+    {
+      "id": "5a76f5b155429972597f1400",
+      "gold": [
+        1,
+        7
+      ],
+      "ranking": [
+        1,
+        2,
+        7,
+        0,
+        6,
+        3,
+        5,
+        9,
+        4,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a79be0e5542994f819ef084",
+      "gold": [
+        6,
+        9
+      ],
+      "ranking": [
+        9,
+        8,
+        6,
+        2,
+        0,
+        7,
+        5,
+        4,
+        3,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a7ed2c655429930675135e5",
+      "gold": [
+        0,
+        4
+      ],
+      "ranking": [
+        0,
+        4,
+        3,
+        1,
+        5,
+        6,
+        2,
+        7,
+        9,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab41d855542996a3a969f4b",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        7,
+        9,
+        4,
+        8,
+        0,
+        3,
+        5,
+        6,
+        2,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ac176555542994d76dcce47",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        7,
+        4,
+        9,
+        1,
+        5,
+        6,
+        3,
+        2,
+        0,
+        8
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5abd6cb955429933744ab7cd",
+      "gold": [
+        2,
+        4
+      ],
+      "ranking": [
+        4,
+        3,
+        1,
+        5,
+        2,
+        0,
+        6,
+        8,
+        7,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5a8361b65542992ef85e22a0",
+      "gold": [
+        2,
+        8
+      ],
+      "ranking": [
+        2,
+        8,
+        9,
+        7,
+        6,
+        1,
+        4,
+        5,
+        0,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab7f6d35542993667794070",
+      "gold": [
+        4,
+        6
+      ],
+      "ranking": [
+        6,
+        1,
+        3,
+        0,
+        7,
+        9,
+        4,
+        2,
+        8,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ae497f15542995ad6573db8",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        8,
+        2,
+        1,
+        7,
+        5,
+        3,
+        0,
+        4,
+        6,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ae3dc205542992f92d823a1",
+      "gold": [
+        4,
+        7
+      ],
+      "ranking": [
+        4,
+        7,
+        3,
+        2,
+        5,
+        6,
+        8,
+        1,
+        0,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae4d3c95542990ba0bbb165",
+      "gold": [
+        3,
+        8
+      ],
+      "ranking": [
+        3,
+        8,
+        6,
+        7,
+        0,
+        2,
+        9,
+        4,
+        5,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8799c55542996e4f308877",
+      "gold": [
+        1,
+        9
+      ],
+      "ranking": [
+        1,
+        9,
+        6,
+        3,
+        0,
+        4,
+        5,
+        8,
+        2,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab67bf255429954757d32f5",
+      "gold": [
+        7,
+        8
+      ],
+      "ranking": [
+        8,
+        9,
+        1,
+        4,
+        0,
+        3,
+        7,
+        2,
+        6,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5ab31864554299233954ff06",
+      "gold": [
+        0,
+        1
+      ],
+      "ranking": [
+        0,
+        2,
+        5,
+        1,
+        7,
+        6,
+        8,
+        3,
+        9,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    },
+    {
+      "id": "5ae75a4c5542997b22f6a6f1",
+      "gold": [
+        0,
+        3
+      ],
+      "ranking": [
+        3,
+        0,
+        8,
+        6,
+        7,
+        5,
+        4,
+        2,
+        1,
+        9
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ade42b55542992fa25da717",
+      "gold": [
+        6,
+        9
+      ],
+      "ranking": [
+        6,
+        9,
+        5,
+        4,
+        1,
+        8,
+        2,
+        7,
+        3,
+        0
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a879ba55542993e715abfc3",
+      "gold": [
+        5,
+        9
+      ],
+      "ranking": [
+        5,
+        9,
+        1,
+        4,
+        3,
+        6,
+        0,
+        7,
+        8,
+        2
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae70ed7554299572ea546a1",
+      "gold": [
+        0,
+        1
+      ],
+      "ranking": [
+        0,
+        1,
+        3,
+        9,
+        8,
+        5,
+        4,
+        7,
+        2,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ab47cd75542991751b4d78d",
+      "gold": [
+        3,
+        5
+      ],
+      "ranking": [
+        5,
+        1,
+        3,
+        2,
+        8,
+        7,
+        9,
+        4,
+        0,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5adfc50355429942ec259b43",
+      "gold": [
+        3,
+        9
+      ],
+      "ranking": [
+        9,
+        7,
+        1,
+        0,
+        3,
+        6,
+        2,
+        4,
+        8,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8503449055347546
+        }
+      }
+    },
+    {
+      "id": "5ab28c89554299340b525513",
+      "gold": [
+        3,
+        6
+      ],
+      "ranking": [
+        3,
+        6,
+        9,
+        1,
+        8,
+        0,
+        4,
+        5,
+        2,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a8485fa5542992a431d1a41",
+      "gold": [
+        2,
+        9
+      ],
+      "ranking": [
+        2,
+        7,
+        9,
+        0,
+        1,
+        4,
+        5,
+        8,
+        6,
+        3
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.9197207891481876
+        }
+      }
+    },
+    {
+      "id": "5a7571135542992d0ec05f98",
+      "gold": [
+        7,
+        9
+      ],
+      "ranking": [
+        7,
+        9,
+        3,
+        4,
+        2,
+        0,
+        5,
+        8,
+        6,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5abf63f15542997ec76fd3ea",
+      "gold": [
+        0,
+        7
+      ],
+      "ranking": [
+        7,
+        0,
+        9,
+        1,
+        2,
+        3,
+        8,
+        6,
+        5,
+        4
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5ae1d0e8554299234fd0430a",
+      "gold": [
+        4,
+        9
+      ],
+      "ranking": [
+        9,
+        5,
+        8,
+        6,
+        0,
+        3,
+        1,
+        4,
+        2,
+        7
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        }
+      }
+    },
+    {
+      "id": "5adf430e5542993a75d2645e",
+      "gold": [
+        2,
+        4
+      ],
+      "ranking": [
+        2,
+        4,
+        9,
+        7,
+        0,
+        1,
+        8,
+        5,
+        3,
+        6
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a82112955429926c1cdae25",
+      "gold": [
+        4,
+        7
+      ],
+      "ranking": [
+        4,
+        7,
+        3,
+        6,
+        8,
+        5,
+        2,
+        0,
+        9,
+        1
+      ],
+      "metrics": {
+        "2": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "3": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 1.0
+        }
+      }
+    },
+    {
+      "id": "5a87411d5542994846c1cd37",
+      "gold": [
+        0,
+        8
+      ],
+      "ranking": [
+        0,
+        3,
+        6,
+        8,
+        9,
+        2,
+        1,
+        7,
+        4,
+        5
+      ],
+      "metrics": {
+        "2": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "3": {
+          "recall": 0.5,
+          "all_evidence": 0.0,
+          "ndcg": 0.6131471927654584
+        },
+        "5": {
+          "recall": 1.0,
+          "all_evidence": 1.0,
+          "ndcg": 0.8772153153380493
+        }
+      }
+    }
+  ]
+}
